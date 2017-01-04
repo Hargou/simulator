@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 /*
   Gives an option to Customize his own armour or list what enchantments he currently has on his armour.
   author: Karan Srivastava
