@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 /*
       Tells the user the different options of what the program can do then uses the
@@ -30,6 +31,9 @@ public class MyProgram
 {
     public static void main(String[] args)
     {
+        JavaServletTest jst = new JavaServletTest();
+
+        /*
         // Main Menu System
         boolean running = true;
         MCSim mcsim  = new MCSim();
@@ -52,6 +56,6 @@ public class MyProgram
         {
             running = false;
         }
-        //}
+        }*/
     }
 }
